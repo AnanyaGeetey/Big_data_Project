@@ -51,7 +51,6 @@ The dataset contains e-commerce transaction records with information about custo
 - **NumPy** — numerical operations
 - **Matplotlib and Seaborn** — exploratory data visualization
 - **Scikit-learn** — feature scaling, K-Means clustering, and silhouette analysis
-- **Google Colab and Google Drive** — notebook execution and data access
 
 ## Methodology
 
@@ -198,7 +197,7 @@ The findings illustrate the value of behavioural segmentation in transforming la
 
 ## Author
 
-**Ananya**
+**Ananya** <br>
 **Ayushi**
 
 ## Acknowledgements
